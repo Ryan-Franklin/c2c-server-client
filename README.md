@@ -12,12 +12,12 @@ This project is implemented with the Socket API in the languages c and c++ and u
 
 Running/Compiling:
 
-Server:
-- Compile: g++ -o c2c c2cServer.cpp
-- Running: ./c2c <port number>
-Agent:
-- Compile: gcc agent.c -o agent
-- Running: ./agent <ip address> <port number> <action>
+* Server:
+  * Compile: g++ -o c2c c2cServer.cpp
+  * Running: ./c2c <port number>
+* Agent:
+  * Compile: gcc agent.c -o agent
+  * Running: ./agent <ip address> <port number> <action>
 
 Note: worked with Lucas Anesti in planning and prep for the project.
 

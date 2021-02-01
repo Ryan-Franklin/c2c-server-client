@@ -19,5 +19,5 @@ This project is implemented with the Socket API in the languages c and c++ and u
   * Compile: gcc agent.c -o agent
   * Running: ./agent <ip address> <port number> <action>
 
-####### Note: worked with Lucas Anesti in planning and prep for the project.
+###### Note: worked with Lucas Anesti in planning and prep for the project.
 

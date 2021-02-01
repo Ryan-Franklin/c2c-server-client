@@ -1,8 +1,10 @@
-project2
 Ryan Franklin
+
 Professor. Mina Guirguis
+
 Computer Networks: Dec 4--11:59 PM
-Goal: Command and Control (C2C) server:
+
+Project: Command and Control (C2C) server:
 
 Objective:
 
